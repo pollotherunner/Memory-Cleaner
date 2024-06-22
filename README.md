@@ -1,5 +1,5 @@
 # Memory-Cleaner
-Memory Cleaner is a C++ utility for cleaning specific strings from the memory of running processes. It utilizes Windows API functions to scan and overwrite memory regions within target processes. This can be particularly useful for security or privacy purposes, ensuring sensitive data is removed from process memory.
+Memory Cleaner is a C++ utility for cleaning specific strings from the memory of running processes. It utilizes Windows API functions to scan and overwrite memory regions within target processes.
 
 # Usage Example
 
